@@ -1,4 +1,4 @@
-# Nfactorial_FinalVersion
+# Some kind of Platformer game
 
 img are directory with game images stored in there,
 other 2 files named 'lvl1.pkl' and 'lvl2.pkl' are gamelevels (in the code itself, there had to be no 2d arrays (they are game maps that are in pkl files))
